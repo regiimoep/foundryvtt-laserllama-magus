@@ -25,3 +25,12 @@ All credit for the homebrew IP goes to Laserllama for his Magus class: https://w
 * Swapping Fighting Styles / Martial Exploits needs to be done manually, only the new ones are added via level progression
 * Not all spells in the Magus spell list are yet part of this compendium, especially not the homebrew ones
 * Most fighting styles assume that you fulfill the requirements for their bonuses all the time, and will need to be disabled if you don't
+
+## Screenshots
+![image](https://github.com/regiimoep/foundryvtt-laserllama-magus/assets/106119828/8a7ef922-23bf-4a34-8681-530e81aba645)
+
+![image](https://github.com/regiimoep/foundryvtt-laserllama-magus/assets/106119828/13daf707-dbe6-45fb-a2a0-b65db45b2b14)
+
+![image](https://github.com/regiimoep/foundryvtt-laserllama-magus/assets/106119828/ce982718-27dd-4731-b914-29408e3b7be3)
+
+![image](https://github.com/regiimoep/foundryvtt-laserllama-magus/assets/106119828/4596edc4-f914-4ba3-9865-e30e03e0d8d6)
