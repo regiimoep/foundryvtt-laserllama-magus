@@ -12,7 +12,7 @@ Requires:
 * Functioning Subclass Support
 * Subclass spells are automatically added
 * Active Effects that can be applied for Blade Dance and other similar abilities
-* * These are currently still work in progress and most likely will need to be applied 
+ * These are currently still work in progress and most likely will need to be applied 
 * All Martial Exploits from Laserllama's Alternate Fighter that the Spellsword can learn, bound to a "Martial Exploits" consumable resource. Rolls inside of the descriptions of these adjust automatically with levels and increasing ability modifiers.
 * Actions to display your Spellstrike, Shunting things from your Arcane Armory, empowering your spells, and more.´
 * New and Revised spells from the Subclass Spell lists from Laserllama's Compendium of Spells (Steel Wind Strike, and more)
