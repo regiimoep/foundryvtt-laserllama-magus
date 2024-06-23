@@ -13119,9 +13119,13 @@
         "summons": null,
         "level": 5,
         "school": "trs",
-        "properties": [],
+        "properties": [
+          "vocal",
+          "somatic",
+          "material"
+        ],
         "materials": {
-          "value": "",
+          "value": "the finger bone of a necromancer",
           "consumed": false,
           "cost": 0,
           "supply": 0
@@ -13162,7 +13166,7 @@
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
         "createdTime": 1718837072643,
-        "modifiedTime": 1719185354134,
+        "modifiedTime": 1719185623878,
         "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
       },
       "_id": "dMYQqSoCUBfIJmTT"
