@@ -3,7 +3,7 @@
   "metadata": {
     "name": "magus",
     "label": "Magus",
-    "path": "worlds/evenings-in-chult/packs/magus",
+    "path": "worlds/created-by-regiimoep/packs/magus",
     "type": "Item",
     "system": "dnd5e",
     "ownership": {
@@ -12,7 +12,7 @@
     },
     "flags": {},
     "packageType": "world",
-    "packageName": "evenings-in-chult",
+    "packageName": "created-by-regiimoep",
     "id": "world.magus"
   },
   "type": "Item",
@@ -13044,7 +13044,7 @@
       "img": "icons/weapons/daggers/dagger-crooked-ice-blue.webp",
       "system": {
         "description": {
-          "value": "<p>You conjure a blade of pure negative energy in your empty hand and make one melee weapon attack against a creature within your reach, attempting to behead it. On hit, it takes force damage equal to [[/r 6d8 ]] + your spellcasting modifier.</p><p>If this damage reduces the creature to 50 hit points or fewer, you instantly cut off one of its heads of your choice.</p><p>The creature instantly dies if it cannot survive without the lost head. The creature's head is not removed if it is immune to slashing damage, or if it doesn't have or need a head.</p>",
+          "value": "<p>You conjure a blade of pure negative energy in your empty hand and make one melee weapon attack against a creature within your reach, attempting to behead it. On hit, it takes force damage equal to [[/r 6d8 + @abilities.int.mod]].</p><p>If this damage reduces the creature to 50 hit points or fewer, you instantly cut off one of its heads of your choice.</p><p>The creature instantly dies if it cannot survive without the lost head. The creature's head is not removed if it is immune to slashing damage, or if it doesn't have or need a head.</p>",
           "chat": ""
         },
         "source": {
@@ -13152,15 +13152,17 @@
         "midi-qol": {
           "rollAttackPerTarget": "default",
           "itemCondition": "",
-          "effectCondition": ""
+          "effectCondition": "",
+          "fumbleThreshold": null,
+          "removeAttackDamageButtons": "default"
         }
       },
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
+        "systemVersion": "3.2.1",
         "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
+        "modifiedTime": 1719185354134,
         "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
       },
       "_id": "dMYQqSoCUBfIJmTT"
@@ -18646,7 +18648,7 @@
           },
           "disabled": true,
           "name": "Blade Dance",
-          "img": "systems/dnd5e/icons/svg/items/Dance.webp",
+          "img": "custom-icons/Dance.webp",
           "_id": "E39IyL6FHa1NJQyG",
           "type": "base",
           "system": {},
@@ -18696,12 +18698,12 @@
           "_stats": {
             "compendiumSource": null,
             "duplicateSource": null,
-            "coreVersion": "12.325",
+            "coreVersion": "12.327",
             "systemId": "dnd5e",
             "systemVersion": "3.2.0",
             "createdTime": null,
-            "modifiedTime": null,
-            "lastModifiedBy": null
+            "modifiedTime": 1719185202926,
+            "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
           }
         }
       ],
@@ -21135,6 +21137,24 @@
       "_id": "paIXSB4YTTBnM0Kn"
     },
     {
+      "name": "Blade Dancer Spells",
+      "sorting": "a",
+      "folder": "ggpV2dttdR1SQ9ds",
+      "type": "Item",
+      "description": "",
+      "color": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": "dnd5e",
+        "systemVersion": "3.2.0",
+        "createdTime": 1718837072566,
+        "modifiedTime": 1719179091904,
+        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+      },
+      "_id": "tuHsXI6kZ2vJS5QC"
+    },
+    {
       "name": "Class Features",
       "sorting": "a",
       "folder": null,
@@ -21187,24 +21207,6 @@
         "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
       },
       "_id": "EIqxcXjSnLrDbjBX"
-    },
-    {
-      "name": "Blade Dancer Spells",
-      "sorting": "a",
-      "folder": "ggpV2dttdR1SQ9ds",
-      "type": "Item",
-      "description": "",
-      "color": null,
-      "flags": {},
-      "_stats": {
-        "coreVersion": "12.327",
-        "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072566,
-        "modifiedTime": 1719179091904,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
-      },
-      "_id": "tuHsXI6kZ2vJS5QC"
     },
     {
       "name": "Spellsword",
