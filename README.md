@@ -6,6 +6,7 @@ The class uses a few custom icons, which you need to place in your Data folder, 
 Requires:
 * Mana's Compendium Importer
 * Dynamic Active Effects
+* Midi QoL
 
 All credit for the homebrew IP goes to Laserllama for his Magus class: https://www.gmbinder.com/share/-Mslo6ktmq1Yg5WTSjDQ and the extended subclasses and fighting styles: https://www.gmbinder.com/share/-Nvnfwvps1zOqpIGK-5B
 
