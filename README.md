@@ -7,6 +7,8 @@ Requires:
 * Mana's Compendium Importer
 * Dynamic Active Effects
 
+All credit for the homebrew IP goes to Laserllama for his Magus class: https://www.gmbinder.com/share/-Mslo6ktmq1Yg5WTSjDQ and the extended subclasses and fighting styles: https://www.gmbinder.com/share/-Nvnfwvps1zOqpIGK-5B
+
 ## Notable features
 * Automatic Level Progression features granted
 * Functioning Subclass Support
