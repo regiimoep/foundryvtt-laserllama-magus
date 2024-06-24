@@ -3,7 +3,7 @@
   "metadata": {
     "name": "magus",
     "label": "Magus",
-    "path": "worlds/created-by-regiimoep/packs/magus",
+    "path": "worlds/playground/packs/magus",
     "type": "Item",
     "system": "dnd5e",
     "ownership": {
@@ -12,7 +12,7 @@
     },
     "flags": {},
     "packageType": "world",
-    "packageName": "created-by-regiimoep",
+    "packageName": "playground",
     "id": "world.magus"
   },
   "type": "Item",
@@ -125,9 +125,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719168959076,
-        "modifiedTime": 1719176261552,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "0ZVoEPjKerWQvB9P"
     },
@@ -313,9 +313,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157140422,
-        "modifiedTime": 1719157140422,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "0Ztj8PBi2knh1Law"
     },
@@ -427,9 +427,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719166179336,
-        "modifiedTime": 1719176694852,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "0ftVt6qTbAihiYzh"
     },
@@ -541,9 +541,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719166367969,
-        "modifiedTime": 1719176795652,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "19mM0vhItDOt2ZzN"
     },
@@ -655,9 +655,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719172167805,
-        "modifiedTime": 1719172305661,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "1EgQD3UHfsOxTvql"
     },
@@ -748,12 +748,12 @@
       "effects": [],
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "1K5fVw7kmLgy8oOQ"
     },
@@ -870,9 +870,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719164713379,
-        "modifiedTime": 1719174336543,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "1VwEs0OQTryD1wRN"
     },
@@ -1002,9 +1002,9 @@
             "coreVersion": "12.327",
             "systemId": "dnd5e",
             "systemVersion": "3.2.1",
-            "createdTime": 1719169870693,
-            "modifiedTime": 1719169874110,
-            "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null
           }
         }
       ],
@@ -1031,9 +1031,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719169827583,
-        "modifiedTime": 1719177417565,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "1idyG4grzvegKIzo"
     },
@@ -1143,12 +1143,12 @@
       "effects": [],
       "folder": "tuHsXI6kZ2vJS5QC",
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "29CjGdgLFnHYmmLh"
     },
@@ -1261,12 +1261,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837635075,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "2JUY6rCjNPiLMn9D"
     },
@@ -1315,12 +1315,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837620206,
-        "modifiedTime": 1718837636683,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "2X9GFKs3hQgaBitz"
     },
@@ -1429,12 +1429,12 @@
         }
       },
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "3lfPxWHHjiSSl3QA"
     },
@@ -1559,12 +1559,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837485756,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "54uEQxOsEiYeTFzt"
     },
@@ -1679,9 +1679,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157140422,
-        "modifiedTime": 1719157140422,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "5QqEDnhLpnyEJeM4"
     },
@@ -1815,12 +1815,12 @@
       "effects": [],
       "folder": "tuHsXI6kZ2vJS5QC",
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "5quDKA7MgJrDdlCv"
     },
@@ -1932,9 +1932,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719164825501,
-        "modifiedTime": 1719176304012,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "5svfEPnQ9oDXRdYc"
     },
@@ -2064,9 +2064,9 @@
             "coreVersion": "12.327",
             "systemId": "dnd5e",
             "systemVersion": "3.2.1",
-            "createdTime": 1719169277493,
-            "modifiedTime": 1719169280697,
-            "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null
           }
         }
       ],
@@ -2093,9 +2093,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719169214687,
-        "modifiedTime": 1719177651904,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "6M5aXNr2chZbKWGE"
     },
@@ -2204,12 +2204,12 @@
       "effects": [],
       "folder": "tuHsXI6kZ2vJS5QC",
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "6N4pdd1K4glG2REo"
     },
@@ -2258,12 +2258,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837585479,
-        "modifiedTime": 1718837634866,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "7KLisDi8VzrNFUPL"
     },
@@ -2397,9 +2397,9 @@
           "_stats": {
             "compendiumSource": null,
             "duplicateSource": null,
-            "coreVersion": "12.325",
+            "coreVersion": "12.327",
             "systemId": "dnd5e",
-            "systemVersion": "3.2.0",
+            "systemVersion": "3.2.1",
             "createdTime": null,
             "modifiedTime": null,
             "lastModifiedBy": null
@@ -2408,12 +2408,12 @@
       ],
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "7WaDysNDg99t3Lcr"
     },
@@ -2507,9 +2507,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719169104197,
-        "modifiedTime": 1719177631866,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "7mOjh2rRmtxmP1CL"
     },
@@ -2643,9 +2643,9 @@
           "_stats": {
             "compendiumSource": null,
             "duplicateSource": null,
-            "coreVersion": "12.325",
+            "coreVersion": "12.327",
             "systemId": "dnd5e",
-            "systemVersion": "3.2.0",
+            "systemVersion": "3.2.1",
             "createdTime": null,
             "modifiedTime": null,
             "lastModifiedBy": null
@@ -2656,10 +2656,10 @@
       "_stats": {
         "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718962884177,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "7psQqF53XR1WvJOJ"
     },
@@ -2750,12 +2750,12 @@
       "effects": [],
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837295744,
-        "modifiedTime": 1718837359156,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "7rVH4XXG23zMd8w2"
     },
@@ -2868,12 +2868,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837485756,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "8As4IbBZ2nnFkmKR"
     },
@@ -2981,12 +2981,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837485756,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "8XoqvBllwA4WAxTJ"
     },
@@ -3095,12 +3095,12 @@
         }
       },
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "8YS2Y0YeaDgauzLe"
     },
@@ -3248,9 +3248,9 @@
           "_stats": {
             "compendiumSource": null,
             "duplicateSource": null,
-            "coreVersion": "12.325",
+            "coreVersion": "12.327",
             "systemId": "dnd5e",
-            "systemVersion": "3.2.0",
+            "systemVersion": "3.2.1",
             "createdTime": null,
             "modifiedTime": null,
             "lastModifiedBy": null
@@ -3294,9 +3294,9 @@
           "_stats": {
             "compendiumSource": null,
             "duplicateSource": null,
-            "coreVersion": "12.325",
+            "coreVersion": "12.327",
             "systemId": "dnd5e",
-            "systemVersion": "3.2.0",
+            "systemVersion": "3.2.1",
             "createdTime": null,
             "modifiedTime": null,
             "lastModifiedBy": null
@@ -3309,12 +3309,12 @@
       ],
       "folder": "tuHsXI6kZ2vJS5QC",
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "9JI1hepozgS5bSRY"
     },
@@ -3426,9 +3426,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719170213679,
-        "modifiedTime": 1719177261984,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "ADyS3rQQwD5r2kVr"
     },
@@ -3551,12 +3551,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837485756,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "AFfieIMwWGyy0pEW"
     },
@@ -3679,9 +3679,9 @@
           "_stats": {
             "compendiumSource": null,
             "duplicateSource": null,
-            "coreVersion": "12.325",
+            "coreVersion": "12.327",
             "systemId": "dnd5e",
-            "systemVersion": "3.2.0",
+            "systemVersion": "3.2.1",
             "createdTime": null,
             "modifiedTime": null,
             "lastModifiedBy": null
@@ -3695,12 +3695,12 @@
       "folder": "EIqxcXjSnLrDbjBX",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "AKY7mTQQj6OA8k2X"
     },
@@ -3834,9 +3834,9 @@
             "coreVersion": "12.327",
             "systemId": "dnd5e",
             "systemVersion": "3.2.1",
-            "createdTime": 1719163897887,
-            "modifiedTime": 1719163918718,
-            "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null
           }
         }
       ],
@@ -3845,9 +3845,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719161381201,
-        "modifiedTime": 1719162191457,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "ALqDpExfHquZd5Ve"
     },
@@ -3973,9 +3973,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157684853,
-        "modifiedTime": 1719159195258,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "AzvEwz1amFpanCMp"
     },
@@ -4091,12 +4091,12 @@
       "effects": [],
       "folder": "tuHsXI6kZ2vJS5QC",
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "BGX2Rcynk6nfIiFT"
     },
@@ -4187,12 +4187,12 @@
       "effects": [],
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "BSnfrtvokBVcNsId"
     },
@@ -4283,12 +4283,12 @@
       "effects": [],
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "C0cC7BL4Rkxp5L4D"
     },
@@ -4332,12 +4332,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837485756,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "CID7igl5t1pPcA5J"
     },
@@ -4449,9 +4449,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719166603215,
-        "modifiedTime": 1719176870443,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "CY3IGuLhhLJtlYOO"
     },
@@ -4591,9 +4591,9 @@
           "_stats": {
             "compendiumSource": null,
             "duplicateSource": null,
-            "coreVersion": "12.325",
+            "coreVersion": "12.327",
             "systemId": "dnd5e",
-            "systemVersion": "3.2.0",
+            "systemVersion": "3.2.1",
             "createdTime": null,
             "modifiedTime": null,
             "lastModifiedBy": null
@@ -4602,12 +4602,12 @@
       ],
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "ClaBzwcN5J2x0kHv"
     },
@@ -5240,9 +5240,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719160435122,
-        "modifiedTime": 1719173836953,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "CmzlC0ZS7NoRwozZ"
     },
@@ -5413,9 +5413,9 @@
             "coreVersion": "12.327",
             "systemId": "dnd5e",
             "systemVersion": "3.2.1",
-            "createdTime": 1719171132272,
-            "modifiedTime": 1719171152060,
-            "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null
           },
           "img": "icons/skills/melee/sword-winged-holy-orange.webp",
           "type": "base",
@@ -5446,9 +5446,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719170919129,
-        "modifiedTime": 1719177787174,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "DxWFQfz3b6ZBlMNg"
     },
@@ -5492,12 +5492,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837485756,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "EJvYCkRkq34UDv20"
     },
@@ -5637,9 +5637,9 @@
             "coreVersion": "12.327",
             "systemId": "dnd5e",
             "systemVersion": "3.2.1",
-            "createdTime": 1719161101015,
-            "modifiedTime": 1719161187582,
-            "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null
           }
         }
       ],
@@ -5648,9 +5648,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719161053453,
-        "modifiedTime": 1719161200401,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "EOZW5knFhNCr6JJH"
     },
@@ -5763,12 +5763,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837485756,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "EX0ixbzAtxJqA8do"
     },
@@ -5917,9 +5917,9 @@
           "_stats": {
             "compendiumSource": null,
             "duplicateSource": null,
-            "coreVersion": "12.325",
+            "coreVersion": "12.327",
             "systemId": "dnd5e",
-            "systemVersion": "3.2.0",
+            "systemVersion": "3.2.1",
             "createdTime": null,
             "modifiedTime": null,
             "lastModifiedBy": null
@@ -5932,12 +5932,12 @@
       ],
       "folder": "tuHsXI6kZ2vJS5QC",
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "ErDEb4V9Ju1wR8B5"
     },
@@ -6061,9 +6061,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157533175,
-        "modifiedTime": 1719159195258,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "FlxUAqMUalOWivrC"
     },
@@ -6202,9 +6202,9 @@
             "coreVersion": "12.327",
             "systemId": "dnd5e",
             "systemVersion": "3.2.1",
-            "createdTime": 1719158664462,
-            "modifiedTime": 1719158839663,
-            "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null
           }
         }
       ],
@@ -6213,9 +6213,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719158407006,
-        "modifiedTime": 1719159195258,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "G044dcBQORGyj8oz"
     },
@@ -6324,12 +6324,12 @@
         }
       },
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "GBhlqoog14rjEpld"
     },
@@ -6443,12 +6443,12 @@
       "effects": [],
       "folder": "4TQnrlijJcMwHzDA",
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "GNBFKPPQ34QJtnZQ"
     },
@@ -6582,9 +6582,9 @@
           "_stats": {
             "compendiumSource": null,
             "duplicateSource": null,
-            "coreVersion": "12.325",
+            "coreVersion": "12.327",
             "systemId": "dnd5e",
-            "systemVersion": "3.2.0",
+            "systemVersion": "3.2.1",
             "createdTime": null,
             "modifiedTime": null,
             "lastModifiedBy": null
@@ -6611,12 +6611,12 @@
         }
       },
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "HA6ieqXp4vptPwPu"
     },
@@ -6728,9 +6728,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719167414845,
-        "modifiedTime": 1719176153465,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "HYtxdTVz4nKkMGY9"
     },
@@ -6842,9 +6842,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719167704006,
-        "modifiedTime": 1719176186913,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "IGeSuoOxybEHQcBg"
     },
@@ -6956,9 +6956,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157136197,
-        "modifiedTime": 1719157136197,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "IjRQXvcXeYIvkwlM"
     },
@@ -7070,9 +7070,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719166734235,
-        "modifiedTime": 1719176997670,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "J4lETWXexTYQrlBw"
     },
@@ -7180,12 +7180,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837485756,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "J64TVfqucgTiPRXc"
     },
@@ -7297,9 +7297,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719171732645,
-        "modifiedTime": 1719177843832,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "JTJARH1kOocVd6Ek"
     },
@@ -7407,12 +7407,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837485756,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "KjEYmPDHZedJ0oAX"
     },
@@ -7521,12 +7521,12 @@
         }
       },
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "L4RLFEhLQHYIharl"
     },
@@ -7640,9 +7640,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157140422,
-        "modifiedTime": 1719157140422,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "LEijGgjNHcm1M8P7"
     },
@@ -7754,9 +7754,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719167267300,
-        "modifiedTime": 1719177111536,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "LN578AqV53NPX0be"
     },
@@ -7868,9 +7868,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719170293193,
-        "modifiedTime": 1719177314213,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "LqK54L4ACYz36FW2"
     },
@@ -7982,9 +7982,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719167315079,
-        "modifiedTime": 1719176103543,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "LwK0u8huSgjhhr6p"
     },
@@ -8102,12 +8102,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837468152,
-        "modifiedTime": 1718837557577,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "M8Gt1244TDe8LRnS"
     },
@@ -8201,9 +8201,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719159562970,
-        "modifiedTime": 1719159690059,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "MQDyFqhOZsgyDfRw"
     },
@@ -8315,9 +8315,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719169995827,
-        "modifiedTime": 1719177215087,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "N8tX4amBW7j7bEYQ"
     },
@@ -8602,9 +8602,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1719179186218,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "PlWHleix4Te8Nz6R"
     },
@@ -8716,9 +8716,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719172799249,
-        "modifiedTime": 1719172871965,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "Q4rtCy4DEPQmp2kp"
     },
@@ -8873,9 +8873,9 @@
             "coreVersion": "12.327",
             "systemId": "dnd5e",
             "systemVersion": "3.2.1",
-            "createdTime": 1719171359349,
-            "modifiedTime": 1719171493595,
-            "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null
           }
         }
       ],
@@ -8884,9 +8884,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719171194947,
-        "modifiedTime": 1719177781585,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "QTNO6NOvVKRKlDqC"
     },
@@ -9043,9 +9043,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157140422,
-        "modifiedTime": 1719157140422,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "QkTwyJ9hFWOUhMpP"
     },
@@ -9204,9 +9204,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157136197,
-        "modifiedTime": 1719157136197,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "QpiAvXidda4nf3ZZ"
     },
@@ -9383,9 +9383,9 @@
           "_stats": {
             "compendiumSource": null,
             "duplicateSource": null,
-            "coreVersion": "12.325",
+            "coreVersion": "12.327",
             "systemId": "dnd5e",
-            "systemVersion": "3.2.0",
+            "systemVersion": "3.2.1",
             "createdTime": null,
             "modifiedTime": null,
             "lastModifiedBy": null
@@ -9398,12 +9398,12 @@
       ],
       "folder": "tuHsXI6kZ2vJS5QC",
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "SKKmePHjkb2irtLx"
     },
@@ -9515,9 +9515,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719172878671,
-        "modifiedTime": 1719173092565,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "SVsB0Mk63t8p1aGD"
     },
@@ -9629,14 +9629,13 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157140422,
-        "modifiedTime": 1719157140422,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "SgsRQxZZkicwW5eP"
     },
     {
-      "folder": null,
       "name": "Magus",
       "type": "class",
       "img": "icons/magic/fire/dagger-rune-enchant-flame-strong-blue-yellow.webp",
@@ -10416,10 +10415,11 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1719179077343,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
+      "folder": null,
       "_id": "T8g81mdVDejjgTXi"
     },
     {
@@ -10535,9 +10535,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719171513871,
-        "modifiedTime": 1719177742422,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "TB9lp2S9OmRKqTxb"
     },
@@ -10667,9 +10667,9 @@
             "coreVersion": "12.327",
             "systemId": "dnd5e",
             "systemVersion": "3.2.1",
-            "createdTime": 1719173174857,
-            "modifiedTime": 1719173183171,
-            "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null
           }
         }
       ],
@@ -10678,9 +10678,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719173101645,
-        "modifiedTime": 1719173191118,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "TYXTIAxOsxJ4Cq8e"
     },
@@ -10792,9 +10792,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719169299300,
-        "modifiedTime": 1719177662100,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "U2ALQVrOqUFV67zH"
     },
@@ -10838,12 +10838,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837485756,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "UkTFZ4E8NqzDklNr"
     },
@@ -10957,9 +10957,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719165494409,
-        "modifiedTime": 1719176317270,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "Upk7nkV7lbBIIa8j"
     },
@@ -11066,9 +11066,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719158908148,
-        "modifiedTime": 1719159195258,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "Ur7MMxmaYMb2sDog"
     },
@@ -11180,9 +11180,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719172529688,
-        "modifiedTime": 1719175047179,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "VI8xREz14kvXzkZw"
     },
@@ -11294,9 +11294,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719166965853,
-        "modifiedTime": 1719175397926,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "VjfeUTAeHWRLb0A4"
     },
@@ -11406,12 +11406,12 @@
       "effects": [],
       "folder": "tuHsXI6kZ2vJS5QC",
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "Wjc0g56V7Ra0YaRT"
     },
@@ -11455,12 +11455,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837485756,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "XAVWGJnnLIYFOwsy"
     },
@@ -11578,9 +11578,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719165851679,
-        "modifiedTime": 1719176639783,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "Xi9e8ZPT7C7YY5ZA"
     },
@@ -11673,10 +11673,10 @@
       "_stats": {
         "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718962865757,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "YBEnfo1ah7dx7oWV"
     },
@@ -11730,12 +11730,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837914505,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "Z0EaEbCTuskw8W6b"
     },
@@ -11901,9 +11901,9 @@
             "coreVersion": "12.327",
             "systemId": "dnd5e",
             "systemVersion": "3.2.1",
-            "createdTime": 1719170696970,
-            "modifiedTime": 1719171172823,
-            "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null
           },
           "img": "icons/magic/control/debuff-energy-snare-purple-blue.webp",
           "type": "base",
@@ -11934,9 +11934,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719170476988,
-        "modifiedTime": 1719177811679,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "Zv8M0pMRxbZmPX89"
     },
@@ -12044,12 +12044,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837485756,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "aHheln0IHHd9EsYK"
     },
@@ -12161,9 +12161,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157136197,
-        "modifiedTime": 1719157136197,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "b5uyBHQHeJCijj2o"
     },
@@ -12272,12 +12272,12 @@
         }
       },
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "bOwMRqlk5OQ9KsYF"
     },
@@ -12368,12 +12368,12 @@
       "effects": [],
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "bP0RWeHRzXMXj86p"
     },
@@ -12513,9 +12513,9 @@
           "_stats": {
             "compendiumSource": null,
             "duplicateSource": null,
-            "coreVersion": "12.325",
+            "coreVersion": "12.327",
             "systemId": "dnd5e",
-            "systemVersion": "3.2.0",
+            "systemVersion": "3.2.1",
             "createdTime": null,
             "modifiedTime": null,
             "lastModifiedBy": null
@@ -12524,12 +12524,12 @@
       ],
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "bim0DxLFbpYAC3o4"
     },
@@ -12620,12 +12620,12 @@
       "effects": [],
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "c8vzqONrwr4zuOIW"
     },
@@ -12669,12 +12669,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837485756,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "cHemCmS3DkI2ZvoC"
     },
@@ -12798,12 +12798,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837636883,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "cLbYRsGb7BoGs2go"
     },
@@ -12915,9 +12915,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719167107776,
-        "modifiedTime": 1719177102439,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "cYPxcukuo0HXdzHT"
     },
@@ -13031,9 +13031,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157140422,
-        "modifiedTime": 1719157140422,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "dJcXHZ2fGmZMu9oa"
     },
@@ -13165,9 +13165,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1719185623878,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "dMYQqSoCUBfIJmTT"
     },
@@ -13293,12 +13293,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837635075,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "ekuvDAUFAnAdSNi6"
     },
@@ -13389,12 +13389,12 @@
       "effects": [],
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "f0737e1ufz1ziiMl"
     },
@@ -13506,9 +13506,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719169892556,
-        "modifiedTime": 1719169967456,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "fIxIYwLoOxhZTgXJ"
     },
@@ -13711,9 +13711,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157270066,
-        "modifiedTime": 1719178811634,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "fLyKhjGp5Ru3LKUL"
     },
@@ -13821,12 +13821,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837485756,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "flJumQU1PQ87z3mJ"
     },
@@ -13960,9 +13960,9 @@
           "_stats": {
             "compendiumSource": null,
             "duplicateSource": null,
-            "coreVersion": "12.325",
+            "coreVersion": "12.327",
             "systemId": "dnd5e",
-            "systemVersion": "3.2.0",
+            "systemVersion": "3.2.1",
             "createdTime": null,
             "modifiedTime": null,
             "lastModifiedBy": null
@@ -13989,12 +13989,12 @@
         }
       },
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "fyWfkD6QClr7ru2N"
     },
@@ -14106,9 +14106,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719169144912,
-        "modifiedTime": 1719177638857,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "gFBhYiCG6WjWv83V"
     },
@@ -14239,9 +14239,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157870343,
-        "modifiedTime": 1719159195258,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "gHGyxujoAIJNKcZp"
     },
@@ -14353,9 +14353,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719165690448,
-        "modifiedTime": 1719176335514,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "geF8kQVpMDGHvsR7"
     },
@@ -14446,12 +14446,12 @@
       "effects": [],
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "hJ7F71GmYaYaTab6"
     },
@@ -14559,12 +14559,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837485756,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "hULbATzzorxWiv4K"
     },
@@ -14676,9 +14676,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719172706224,
-        "modifiedTime": 1719172790944,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "hfjnT5JLC1Jpg9Fr"
     },
@@ -14802,9 +14802,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157369057,
-        "modifiedTime": 1719159195258,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "hlufvcutRavlPEzP"
     },
@@ -14999,9 +14999,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157140422,
-        "modifiedTime": 1719157140422,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "ifw1ZYf0649cgs14"
     },
@@ -15110,12 +15110,12 @@
         }
       },
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "jLPzt2TMFUrsrz8W"
     },
@@ -15274,9 +15274,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157136197,
-        "modifiedTime": 1719157136197,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "jS51svn90BYo2Asg"
     },
@@ -15413,9 +15413,9 @@
             "coreVersion": "12.327",
             "systemId": "dnd5e",
             "systemVersion": "3.2.1",
-            "createdTime": 1719170144893,
-            "modifiedTime": 1719170190198,
-            "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null
           }
         }
       ],
@@ -15442,9 +15442,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719170120588,
-        "modifiedTime": 1719177233495,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "jdPTYaEEySOajhQI"
     },
@@ -15553,12 +15553,12 @@
         }
       },
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "kDoEARa2a3A0l2HP"
     },
@@ -15677,9 +15677,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719159207176,
-        "modifiedTime": 1719159207176,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "kvCpkcYpNVEaMk8p"
     },
@@ -15812,12 +15812,12 @@
       "effects": [],
       "folder": "tuHsXI6kZ2vJS5QC",
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "l1r3W4JeJURv4apM"
     },
@@ -15929,9 +15929,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719159336256,
-        "modifiedTime": 1719159624061,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "lzphYqc3saBSV33K"
     },
@@ -16043,9 +16043,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719166245685,
-        "modifiedTime": 1719176718054,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "m2HRwABpfkCiLXUS"
     },
@@ -16157,9 +16157,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719168803497,
-        "modifiedTime": 1719177151551,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "m8XvDPoJ67fKLeFZ"
     },
@@ -16268,12 +16268,12 @@
         }
       },
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "mDR7GkTogHYSbavz"
     },
@@ -16386,9 +16386,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719170060376,
-        "modifiedTime": 1719177437879,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "nALg39dyU6Golggg"
     },
@@ -16500,9 +16500,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719166532117,
-        "modifiedTime": 1719176854472,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "oDAj6wkUHq20JHDJ"
     },
@@ -16616,9 +16616,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157140422,
-        "modifiedTime": 1719157140422,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "oFryesSSbi9yJV09"
     },
@@ -16730,9 +16730,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719171621122,
-        "modifiedTime": 1719177858699,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "pZynStJtyO84FXVq"
     },
@@ -16844,9 +16844,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719164607323,
-        "modifiedTime": 1719177190822,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "pj1nGHpJrT6sw5QS"
     },
@@ -16958,9 +16958,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719166907709,
-        "modifiedTime": 1719177080635,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "q9T5tySCow2GJYxD"
     },
@@ -17071,12 +17071,12 @@
         }
       },
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "qTTvnyq83wO6UonW"
     },
@@ -17206,9 +17206,9 @@
             "coreVersion": "12.327",
             "systemId": "dnd5e",
             "systemVersion": "3.2.1",
-            "createdTime": 1719169520460,
-            "modifiedTime": 1719169523758,
-            "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null
           }
         }
       ],
@@ -17235,9 +17235,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719169432597,
-        "modifiedTime": 1719177669645,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "qZ9CNy8toAs4KHI4"
     },
@@ -17349,9 +17349,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719169560206,
-        "modifiedTime": 1719177683609,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "qbR9jfDfsctQOLxF"
     },
@@ -17463,9 +17463,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719166677509,
-        "modifiedTime": 1719176879499,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "qpsOIoyWEIV9rWVe"
     },
@@ -17588,12 +17588,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837485756,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "rONu7HbN3c153AK6"
     },
@@ -17716,9 +17716,9 @@
           "_stats": {
             "compendiumSource": null,
             "duplicateSource": null,
-            "coreVersion": "12.325",
+            "coreVersion": "12.327",
             "systemId": "dnd5e",
-            "systemVersion": "3.2.0",
+            "systemVersion": "3.2.1",
             "createdTime": null,
             "modifiedTime": null,
             "lastModifiedBy": null
@@ -17732,12 +17732,12 @@
       "folder": "EIqxcXjSnLrDbjBX",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "rR2GeV4h0BRElxcr"
     },
@@ -17781,12 +17781,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837485756,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "rjPIY4eBs0olgxcj"
     },
@@ -17898,9 +17898,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719166298955,
-        "modifiedTime": 1719176741534,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "sJe1zZqSbFD432Ab"
     },
@@ -17994,9 +17994,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157136197,
-        "modifiedTime": 1719157136197,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "sc4aSqJ9e6P7s2mV"
     },
@@ -18090,9 +18090,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719159448037,
-        "modifiedTime": 1719159619504,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "sfYWUTetfc4qde8Z"
     },
@@ -18204,12 +18204,12 @@
         }
       },
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "sn9Gyyn1vWAPX0vn"
     },
@@ -18317,12 +18317,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837485756,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "spOiBT94Tl1DMTIP"
     },
@@ -18431,12 +18431,12 @@
         }
       },
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837072643,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "szUQg6H8PCibXZhz"
     },
@@ -18547,10 +18547,10 @@
       "_stats": {
         "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718962874066,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "t2cMkjpGtIfOOaE3"
     },
@@ -18704,10 +18704,10 @@
             "duplicateSource": null,
             "coreVersion": "12.327",
             "systemId": "dnd5e",
-            "systemVersion": "3.2.0",
+            "systemVersion": "3.2.1",
             "createdTime": null,
-            "modifiedTime": 1719185202926,
-            "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+            "modifiedTime": null,
+            "lastModifiedBy": null
           }
         }
       ],
@@ -18715,10 +18715,10 @@
       "_stats": {
         "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718962859201,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "tKTBmaGeQ36iNSbw"
     },
@@ -18833,9 +18833,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719159221853,
-        "modifiedTime": 1719159221853,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "tsyw7S2x39C4gvNU"
     },
@@ -18950,9 +18950,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157140422,
-        "modifiedTime": 1719157140422,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "ufRYCHY6XUmyXSne"
     },
@@ -19064,9 +19064,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719172222636,
-        "modifiedTime": 1719172295642,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "uy8GttDBybODxrIG"
     },
@@ -19184,12 +19184,12 @@
       "effects": [],
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837449061,
-        "modifiedTime": 1718837954262,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "vDhzpe7ECKacK3J6"
     },
@@ -19302,9 +19302,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157136197,
-        "modifiedTime": 1719157136197,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "ve2UNS2Xp4YBQa08"
     },
@@ -19416,9 +19416,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719165968365,
-        "modifiedTime": 1719176479869,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "vgmxgRukeqYI5W0w"
     },
@@ -19545,9 +19545,9 @@
             "coreVersion": "12.327",
             "systemId": "dnd5e",
             "systemVersion": "3.2.1",
-            "createdTime": 1719159837380,
-            "modifiedTime": 1719159840765,
-            "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null
           }
         }
       ],
@@ -19556,9 +19556,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719159732292,
-        "modifiedTime": 1719159884552,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "wXupTlwntMLGkpnW"
     },
@@ -19692,9 +19692,9 @@
             "coreVersion": "12.327",
             "systemId": "dnd5e",
             "systemVersion": "3.2.1",
-            "createdTime": 1719163786552,
-            "modifiedTime": 1719163889929,
-            "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null
           }
         }
       ],
@@ -19703,9 +19703,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719163655602,
-        "modifiedTime": 1719164333649,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "x8uwnzVu44bo7weO"
     },
@@ -19839,9 +19839,9 @@
             "coreVersion": "12.327",
             "systemId": "dnd5e",
             "systemVersion": "3.2.1",
-            "createdTime": 1719164052867,
-            "modifiedTime": 1719164088089,
-            "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+            "createdTime": null,
+            "modifiedTime": null,
+            "lastModifiedBy": null
           }
         }
       ],
@@ -19868,9 +19868,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719163947788,
-        "modifiedTime": 1719164324213,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "xC5BM5Z4s7XDNeHC"
     },
@@ -19924,12 +19924,12 @@
       "folder": "3JbBTM61hHsmfd14",
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072643,
-        "modifiedTime": 1718837862769,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "xElxy2ACob2Ub8q0"
     },
@@ -20044,9 +20044,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157140422,
-        "modifiedTime": 1719157140422,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "xJ8MmlqQx0ZSDiPu"
     },
@@ -20158,9 +20158,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719160879023,
-        "modifiedTime": 1719161044078,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "xK39KlH9CIATqlwO"
     },
@@ -20272,9 +20272,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719172309536,
-        "modifiedTime": 1719172353514,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "xwxyOTr0Md2MOP47"
     },
@@ -20368,9 +20368,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157136197,
-        "modifiedTime": 1719157136197,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "yGnC67qfZuLfHh7X"
     },
@@ -20482,9 +20482,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719169647052,
-        "modifiedTime": 1719177696165,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "yKpIkggfp3gH4MmS"
     },
@@ -20596,9 +20596,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719166835819,
-        "modifiedTime": 1719177026717,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "yWy0Fc62F4XS7RQ3"
     },
@@ -20839,9 +20839,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719157143769,
-        "modifiedTime": 1719179308547,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "ybKIc36ueLim3zQ0"
     },
@@ -20956,9 +20956,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719159195185,
-        "modifiedTime": 1719159195258,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "yjUHD93E2tfG6BuL"
     },
@@ -21070,15 +21070,15 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719166417254,
-        "modifiedTime": 1719176841871,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": 1719230756518,
+        "modifiedTime": 1719230756518,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
       },
       "_id": "z47D4hpgfwWFmi2i"
     }
   ],
   "source": {
-    "world": "evenings-in-chult",
+    "world": "playground",
     "system": "dnd5e",
     "version": {
       "core": "12.327",
@@ -21086,6 +21086,24 @@
     }
   },
   "folders": [
+    {
+      "name": "Spellsword Martial Exploits 1st Degree",
+      "sorting": "a",
+      "folder": "ggpV2dttdR1SQ9ds",
+      "type": "Item",
+      "description": "",
+      "color": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": "dnd5e",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "1VIOUfjXUsjHzYxQ"
+    },
     {
       "name": "Spellsword Martial Exploits 2nd Degree",
       "sorting": "a",
@@ -21098,11 +21116,191 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719169757105,
-        "modifiedTime": 1719169818748,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
       },
       "_id": "1hxRux70HVjk5dzd"
+    },
+    {
+      "name": "Arcane Archer Spells",
+      "sorting": "a",
+      "folder": "ggpV2dttdR1SQ9ds",
+      "type": "Item",
+      "description": "",
+      "color": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": "dnd5e",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "2dJiQMhxuhOToMy1"
+    },
+    {
+      "name": "Starting items",
+      "sorting": "a",
+      "folder": null,
+      "type": "Item",
+      "description": "",
+      "color": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": "dnd5e",
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756365,
+        "modifiedTime": 1719230756365,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
+      },
+      "_id": "3JbBTM61hHsmfd14"
+    },
+    {
+      "name": "Class Features",
+      "sorting": "a",
+      "folder": null,
+      "type": "Item",
+      "description": "",
+      "color": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": "dnd5e",
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756365,
+        "modifiedTime": 1719230756365,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
+      },
+      "_id": "4TQnrlijJcMwHzDA"
+    },
+    {
+      "name": "Fighting Styles",
+      "sorting": "a",
+      "folder": null,
+      "type": "Item",
+      "description": "",
+      "color": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": "dnd5e",
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756365,
+        "modifiedTime": 1719230756365,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
+      },
+      "_id": "EIqxcXjSnLrDbjBX"
+    },
+    {
+      "name": "Blade Dancer",
+      "sorting": "a",
+      "folder": "ggpV2dttdR1SQ9ds",
+      "type": "Item",
+      "description": "",
+      "color": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": "dnd5e",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "FURiQLtzAa3kJtBJ"
+    },
+    {
+      "name": "Spellsword",
+      "sorting": "a",
+      "folder": "ggpV2dttdR1SQ9ds",
+      "type": "Item",
+      "description": "",
+      "color": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": "dnd5e",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "IeTg2tVWEhj6wVQf"
+    },
+    {
+      "name": "Arcane Archer",
+      "sorting": "a",
+      "folder": "ggpV2dttdR1SQ9ds",
+      "type": "Item",
+      "description": "",
+      "color": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": "dnd5e",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "KEIWRzKDadhRjShL"
+    },
+    {
+      "name": "Spellbreaker",
+      "sorting": "a",
+      "folder": "ggpV2dttdR1SQ9ds",
+      "type": "Item",
+      "description": "",
+      "color": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": "dnd5e",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "OIAaddFtgtPFBFGj"
+    },
+    {
+      "name": "Spellbreaker Spells",
+      "sorting": "a",
+      "folder": "ggpV2dttdR1SQ9ds",
+      "type": "Item",
+      "description": "",
+      "color": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": "dnd5e",
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
+      },
+      "_id": "Q9kiApJwE8j7bVGH"
+    },
+    {
+      "name": "Subclasses",
+      "sorting": "a",
+      "folder": null,
+      "type": "Item",
+      "description": "",
+      "color": null,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "12.327",
+        "systemId": "dnd5e",
+        "systemVersion": "3.2.1",
+        "createdTime": 1719230756365,
+        "modifiedTime": 1719230756365,
+        "lastModifiedBy": "6lz2lkuvF2YXYcpD"
+      },
+      "_id": "efAWxx3poMgNbMUt"
     },
     {
       "name": "Subclass Features",
@@ -21113,12 +21311,12 @@
       "color": null,
       "flags": {},
       "_stats": {
-        "coreVersion": "12.325",
+        "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072566,
-        "modifiedTime": 1718837072566,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
       },
       "_id": "ggpV2dttdR1SQ9ds"
     },
@@ -21134,9 +21332,9 @@
         "coreVersion": "12.327",
         "systemId": "dnd5e",
         "systemVersion": "3.2.1",
-        "createdTime": 1719170347887,
-        "modifiedTime": 1719170347887,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
       },
       "_id": "paIXSB4YTTBnM0Kn"
     },
@@ -21151,214 +21349,12 @@
       "_stats": {
         "coreVersion": "12.327",
         "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072566,
-        "modifiedTime": 1719179091904,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
+        "systemVersion": "3.2.1",
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null
       },
       "_id": "tuHsXI6kZ2vJS5QC"
-    },
-    {
-      "name": "Class Features",
-      "sorting": "a",
-      "folder": null,
-      "type": "Item",
-      "description": "",
-      "color": null,
-      "flags": {},
-      "_stats": {
-        "coreVersion": "12.325",
-        "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072566,
-        "modifiedTime": 1718837072566,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
-      },
-      "_id": "4TQnrlijJcMwHzDA"
-    },
-    {
-      "name": "Blade Dancer",
-      "sorting": "a",
-      "folder": "ggpV2dttdR1SQ9ds",
-      "type": "Item",
-      "description": "",
-      "color": null,
-      "flags": {},
-      "_stats": {
-        "coreVersion": "12.327",
-        "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072566,
-        "modifiedTime": 1719169286093,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
-      },
-      "_id": "FURiQLtzAa3kJtBJ"
-    },
-    {
-      "name": "Fighting Styles",
-      "sorting": "a",
-      "folder": null,
-      "type": "Item",
-      "description": "",
-      "color": null,
-      "flags": {},
-      "_stats": {
-        "coreVersion": "12.325",
-        "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072566,
-        "modifiedTime": 1718837072566,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
-      },
-      "_id": "EIqxcXjSnLrDbjBX"
-    },
-    {
-      "name": "Spellsword",
-      "sorting": "a",
-      "folder": "ggpV2dttdR1SQ9ds",
-      "type": "Item",
-      "description": "",
-      "color": null,
-      "flags": {},
-      "_stats": {
-        "coreVersion": "12.327",
-        "systemId": "dnd5e",
-        "systemVersion": "3.2.1",
-        "createdTime": 1719157235796,
-        "modifiedTime": 1719169286093,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
-      },
-      "_id": "IeTg2tVWEhj6wVQf"
-    },
-    {
-      "name": "Subclasses",
-      "sorting": "a",
-      "folder": null,
-      "type": "Item",
-      "description": "",
-      "color": null,
-      "flags": {},
-      "_stats": {
-        "coreVersion": "12.325",
-        "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072566,
-        "modifiedTime": 1718837072566,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
-      },
-      "_id": "efAWxx3poMgNbMUt"
-    },
-    {
-      "name": "Starting items",
-      "sorting": "a",
-      "folder": null,
-      "type": "Item",
-      "description": "",
-      "color": null,
-      "flags": {},
-      "_stats": {
-        "coreVersion": "12.325",
-        "systemId": "dnd5e",
-        "systemVersion": "3.2.0",
-        "createdTime": 1718837072566,
-        "modifiedTime": 1718837072566,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
-      },
-      "_id": "3JbBTM61hHsmfd14"
-    },
-    {
-      "name": "Arcane Archer",
-      "sorting": "a",
-      "folder": "ggpV2dttdR1SQ9ds",
-      "type": "Item",
-      "description": "",
-      "color": null,
-      "flags": {},
-      "_stats": {
-        "coreVersion": "12.327",
-        "systemId": "dnd5e",
-        "systemVersion": "3.2.1",
-        "createdTime": 1719157244309,
-        "modifiedTime": 1719169286093,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
-      },
-      "_id": "KEIWRzKDadhRjShL"
-    },
-    {
-      "name": "Arcane Archer Spells",
-      "sorting": "a",
-      "folder": "ggpV2dttdR1SQ9ds",
-      "type": "Item",
-      "description": "",
-      "color": null,
-      "flags": {},
-      "_stats": {
-        "coreVersion": "12.327",
-        "systemId": "dnd5e",
-        "systemVersion": "3.2.1",
-        "createdTime": 1719157247619,
-        "modifiedTime": 1719169286093,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
-      },
-      "_id": "2dJiQMhxuhOToMy1"
-    },
-    {
-      "name": "Spellbreaker",
-      "sorting": "a",
-      "folder": "ggpV2dttdR1SQ9ds",
-      "type": "Item",
-      "description": "",
-      "color": null,
-      "flags": {},
-      "_stats": {
-        "coreVersion": "12.327",
-        "systemId": "dnd5e",
-        "systemVersion": "3.2.1",
-        "createdTime": 1719157136156,
-        "modifiedTime": 1719169286093,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
-      },
-      "_id": "OIAaddFtgtPFBFGj"
-    },
-    {
-      "name": "Spellsword Martial Exploits 1st Degree",
-      "sorting": "a",
-      "folder": "ggpV2dttdR1SQ9ds",
-      "type": "Item",
-      "description": "",
-      "color": null,
-      "flags": {},
-      "_stats": {
-        "coreVersion": "12.327",
-        "systemId": "dnd5e",
-        "systemVersion": "3.2.1",
-        "createdTime": 1719164411891,
-        "modifiedTime": 1719169744274,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
-      },
-      "_id": "1VIOUfjXUsjHzYxQ"
-    },
-    {
-      "name": "Spellbreaker Spells",
-      "sorting": "a",
-      "folder": "ggpV2dttdR1SQ9ds",
-      "type": "Item",
-      "description": "",
-      "color": null,
-      "flags": {},
-      "_stats": {
-        "coreVersion": "12.327",
-        "systemId": "dnd5e",
-        "systemVersion": "3.2.1",
-        "createdTime": 1719157140330,
-        "modifiedTime": 1719169286093,
-        "lastModifiedBy": "Skt0Qqy9q4nTmtZv"
-      },
-      "_id": "Q9kiApJwE8j7bVGH"
     }
-  ],
-  "folder": {
-    "id": "4xXP1I2VBOWlx96K",
-    "name": "Magus"
-  }
+  ]
 }
