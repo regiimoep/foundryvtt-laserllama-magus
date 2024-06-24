@@ -1,6 +1,7 @@
 # Magus Class in FoundryVTT (WIP)
 This is a work in progress containing the base Magus class by Laserllama and four subclasses (Blade Dancer, Spellbreaker, Spellsword, Arcane Archer)
 It can imported into your game by using Mana's Compendium Importer: https://foundryvtt.com/packages/mkah-compendium-importer
+
 The class uses a few custom icons, which you need to place in your Data folder, on the same level as your systems/worlds etc. folders. Put the custom-icons folder into it in order to have all the icons display properly.
 
 Requires:
@@ -8,7 +9,9 @@ Requires:
 * Dynamic Active Effects
 * Midi QoL
 
-All credit for the homebrew IP goes to Laserllama for his Magus class: https://www.gmbinder.com/share/-Mslo6ktmq1Yg5WTSjDQ and the extended subclasses and fighting styles: https://www.gmbinder.com/share/-Nvnfwvps1zOqpIGK-5B
+All credit for the homebrew IP goes to Laserllama for his Magus class: https://www.gmbinder.com/share/-Mslo6ktmq1Yg5WTSjDQ 
+
+and the extended subclasses and fighting styles: https://www.gmbinder.com/share/-Nvnfwvps1zOqpIGK-5B
 
 ## Notable features
 * Automatic Level Progression features granted
